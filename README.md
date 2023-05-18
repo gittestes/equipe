@@ -1,2 +1,2 @@
 # equipe
-reopositorio para traalhos em equipe
+reopositorio para trabalhos em equipe
